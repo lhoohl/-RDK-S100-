@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>平遥古城景点地图</title>
+    <style>
+        html, body, #container { width: 100%; height: 100%; margin: 0; padding: 0;}
+    </style>
+    <script src="https://webapi.amap.com/maps?v=2.0&key=c95b6b06b7ad7f6a30576f5aa4e4c71c"></script>
+</head>
+<body>
+<div id="container"></div>
+<script>
+    var map = new AMap.Map('container', {
+        zoom: 15,
+        center: [112.174, 37.195], // 平遥古城中心
+    });
+
+    // 景点数据（示例，实际可补充更多）
+    var spots = [
+        {name: "平遥古城墙", pos: [112.174, 37.195]},
+        {name: "日升昌票号", pos: [112.176, 37.197]},
+        {name: "文庙", pos: [112.180, 37.194]},
+        {name: "城隍庙", pos: [112.172, 37.192]},
+        {name: "协同庆票号", pos: [112.178, 37.196]},
+        {name: "平遥县衙", pos: [112.175, 37.193]},
+        {name: "双林寺", pos: [112.162, 37.170]},
+        {name: "镇国寺", pos: [112.153, 37.210]}
+    ];
+
+    spots.forEach(function(spot) {
+        new AMap.Marker({
+            position: spot.pos,
+            map: map,
+            title: spot.name,
+            icon: "https://webapi.amap.com/theme/v1.3/markers/n/mark_b.png", // 红色旗帜
+            label: {
+                content: "<span style='color:#ff0000;font-weight:bold;'>" + spot.name + "</span>",
+                offset: new AMap.Pixel(20, -20)
+            }
+        });
+    });
+</script>
+</body>
+</html>
+

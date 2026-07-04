@@ -1,0 +1,8 @@
+2025-08-13 15:04:30,201 - INFO - ARM架构插件路径已设置
+2025-08-13 15:04:30,201 - INFO - 资源限制设置成功
+2025-08-13 15:04:30,202 - INFO - 已设置XCB平台环境变量
+2025-08-13 15:04:31,372 - INFO - ROS2线程启动...
+2025-08-13 15:04:31,630 - INFO - 创建临时地图文件: /home/sunrise/.hmi_temp/map_view.html
+[685738:686769:0813/150431.676620:FATAL:page_allocator_internals_posix.h(169)] Check failed: . : Invalid argument (22)
+[ros2run]: Trace/breakpoint trap
+

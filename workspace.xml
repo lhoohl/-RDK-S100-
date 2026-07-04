@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5891b7fc-a991-48a9-8f28-5bc4fd372ea2" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/include/serial/impl/unix.h" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/include/serial/impl/unix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/include/serial/impl/win.h" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/include/serial/impl/win.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/include/serial/serial.h" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/include/serial/serial.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/include/serial/v8stdint.h" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/include/serial/v8stdint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_osx.cc" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_osx.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_win.cc" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/src/impl/list_ports/list_ports_win.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depend/serial_ros2/src/impl/win.cc" beforeDir="false" afterPath="$PROJECT_DIR$/depend/serial_ros2/src/impl/win.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sensor/serial_ros2/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sensor/serial_ros2/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sensor/serial_ros2/src/impl/unix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/sensor/serial_ros2/src/impl/unix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sensor/serial_ros2/src/serial.cc" beforeDir="false" afterPath="$PROJECT_DIR$/sensor/serial_ros2/src/serial.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/Dependencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/Dependencies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/License-gpl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/License-gpl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/docker/kinetic/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/docker/kinetic/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/docker/melodic/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/docker/melodic/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/BowVector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/BowVector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/BowVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/BowVector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FClass.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FClass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FORB.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FORB.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FORB.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FORB.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FeatureVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/FeatureVector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/ScoringObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/ScoringObject.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/TemplatedVocabulary.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DBoW2/TemplatedVocabulary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Random.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Random.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Random.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Timestamp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Timestamp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Timestamp.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/DUtils/Timestamp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/DBoW2/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindBLAS.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindBLAS.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindEigen3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindEigen3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindLAPACK.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/cmake_modules/FindLAPACK.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/config.h.in" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/config.h.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_binary_edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_binary_edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_binary_edge.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_binary_edge.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_multi_edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_multi_edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_multi_edge.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_multi_edge.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_unary_edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_unary_edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_unary_edge.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_unary_edge.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_vertex.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_vertex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_vertex.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/base_vertex.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/batch_stats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/batch_stats.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/batch_stats.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/batch_stats.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/block_solver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/block_solver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/block_solver.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/block_solver.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/cache.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/cache.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/cache.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/cache.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/creators.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/creators.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/eigen_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/eigen_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/estimate_propagator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/estimate_propagator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/estimate_propagator.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/estimate_propagator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/factory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_dijkstra.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_dijkstra.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph_action.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/hyper_graph_action.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/jacobian_workspace.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/jacobian_workspace.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/linear_solver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/linear_solver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_operations.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_operations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_structure.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_structure.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_structure.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/matrix_structure.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/openmp_mutex.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/openmp_mutex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimizable_graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimizable_graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimizable_graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimizable_graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_dogleg.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_dogleg.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_dogleg.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_dogleg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_property.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_property.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter_container.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter_container.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter_container.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/parameter_container.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_impl.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/robust_kernel_impl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/solver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/solver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/solver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/solver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_ccs.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_ccs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_diagonal.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_diagonal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_block_matrix_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_optimizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/core/sparse_optimizer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/solvers/linear_solver_dense.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/solvers/linear_solver_dense.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/solvers/linear_solver_eigen.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/solvers/linear_solver_eigen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/color_macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/color_macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/misc.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/misc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/os_specific.c" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/os_specific.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/os_specific.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/os_specific.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/property.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/property.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/property.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/property.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/string_tools.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/string_tools.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/string_tools.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/string_tools.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/timeutil.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/timeutil.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/timeutil.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/stuff/timeutil.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3_ops.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3_ops.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3_ops.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3_ops.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3quat.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/se3quat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/sim3.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/sim3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_sba.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_sba.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_sba.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_sba.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/license-bsd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/Thirdparty/g2o/license-bsd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/cmake_modules/FindEigen3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/cmake_modules/FindEigen3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/BoostArchiver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/BoostArchiver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Converter.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Converter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/FrameDrawer.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/FrameDrawer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Initializer.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Initializer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/KeyFrame.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/KeyFrame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/KeyFrameDatabase.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/KeyFrameDatabase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/LocalMapping.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/LocalMapping.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/LoopClosing.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/LoopClosing.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Map.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/MapPoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/MapPoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBVocabulary.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBVocabulary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBextractor.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBextractor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBmatcher.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/ORBmatcher.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Optimizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Optimizer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/PnPsolver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/PnPsolver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Sim3Solver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Sim3Solver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/System.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/System.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Tracking.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/Tracking.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/pointcloudmapping.h" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/include/pointcloudmapping.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Converter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Converter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Frame.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Frame.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/FrameDrawer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/FrameDrawer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Initializer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Initializer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/KeyFrame.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/KeyFrame.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/KeyFrameDatabase.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/KeyFrameDatabase.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/LocalMapping.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/LocalMapping.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/LoopClosing.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/LoopClosing.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Map.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Map.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/MapPoint.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/MapPoint.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/ORBextractor.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/ORBextractor.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/ORBmatcher.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/ORBmatcher.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Optimizer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Optimizer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/PnPsolver.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/PnPsolver.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Sim3Solver.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Sim3Solver.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/System.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/System.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Tracking.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/Tracking.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/pointcloudmapping.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/orb_slam2/src/pointcloudmapping.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/octomap_server.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/octomap_server.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_Astra_rgbd.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_Astra_rgbd.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_Gemini_rgbd.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_Gemini_rgbd.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_d435_mono.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_d435_mono.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_d435_rgbd.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_d435_rgbd.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_t265_mono.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_t265_mono.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_t265_stereo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/params_t265_stereo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/rviz_config.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/config/rviz_config.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/MonoNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/MonoNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/Node.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/Node.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/RGBDNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/RGBDNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/StereoNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/include/StereoNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_Astra_rgbd_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_Astra_rgbd_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_Gemini_rgb_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_Gemini_rgb_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_d435_mono_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_d435_mono_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_d435_rgbd_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_d435_rgbd_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_t265_mono_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_t265_mono_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_t265_stereo_launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/launch/orb_slam2_t265_stereo_launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/MonoNode.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/MonoNode.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/Node.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/Node.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/RGBDNode.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/RGBDNode.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/StereoNode.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/ros/src/StereoNode.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/rviz_config.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/rviz_config.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/srv/SaveCloud.srv" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/srv/SaveCloud.srv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/srv/SaveMap.srv" beforeDir="false" afterPath="$PROJECT_DIR$/wheeltec_robot_slam/orb_slam_2_ros/orb_slam_2_ros/srv/SaveMap.srv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/depend/serial_ros2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30Wtt7LM5ymtnpI8VjJHyDYcafN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.qqqq.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/sunrise/nav_car20260430/nav_car/car/src",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AI/circlephoto/audio" />
+      <recent name="$PROJECT_DIR$/sensor/wheeltec_mic/wheeltec_mic_ros2/config/msc/res/asr" />
+      <recent name="$PROJECT_DIR$/face_identify_service/face_identify_service" />
+      <recent name="$PROJECT_DIR$/face_identify_service/scripts" />
+      <recent name="$PROJECT_DIR$/launch/aitalk_launch/launch" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/voice_broadcast/audio" />
+      <recent name="$PROJECT_DIR$/face_identify_service/scripts" />
+      <recent name="$PROJECT_DIR$/AI/circlephoto/circlephoto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="qqqq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/circlephoto/circlephoto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/circlephoto/circlephoto/qqqq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.qqqq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5891b7fc-a991-48a9-8f28-5bc4fd372ea2" name="更改" comment="" />
+      <created>1753755369304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753755369304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/carto_slam/carto_launch/setup.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
